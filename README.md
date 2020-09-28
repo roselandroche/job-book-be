@@ -8,6 +8,14 @@
 
 #### 1️⃣ Backend delpoyed at [Heroku](https://dashboard.heroku.com/apps) <br>
 
+### Description
+
+- Backend for a web application and Chrome extension aiming to ease the job hunting process. This is accomplished by giving options to save information in one central organized environment.
+
+### Status
+
+- Complete, with room to grow.
+
 ## 1️⃣ Getting started
 
 To get the server running locally:
